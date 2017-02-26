@@ -651,6 +651,20 @@ label {
 .course {width: 80%;}
 }
 @media screen and (max-width:610px){
+	page[size="A4"] {
+    width:97%;
+    height: auto;
+    padding-top: 20px;
+}
+ .rowgroup {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+#skills, #intro {
+    width: inherit;
+    padding: 15px;
+}
 	.bage h1 {    line-height: 40px;}
 	h1 {
     color: #fff;
