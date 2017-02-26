@@ -647,6 +647,9 @@ label {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+@media screen and (max-width:400px){
+.course {width: 80%;}
+}
 @media screen and (max-width:610px){
 	.bage h1 {    line-height: 40px;}
 	h1 {
