@@ -656,6 +656,10 @@ label {
     height: auto;
     padding-top: 20px;
 }
+.navbar-default {
+    background-color: #c8c3dc;
+    border-color: #b193b4;
+}
  .rowgroup {
     display: flex;
     justify-content: space-around;
