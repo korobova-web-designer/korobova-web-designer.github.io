@@ -648,6 +648,7 @@ label {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 @media screen and (max-width:610px){
+	.bage h1 {    line-height: 40px;}
 	h1 {
     color: #fff;
     font-size: 40px;
@@ -733,4 +734,5 @@ label {
 .col-md-4 h2, .col-md-4 p {text-align: justify;
     margin-left: 100px;}
 	.marketing {margin:0;}
+	
 }
