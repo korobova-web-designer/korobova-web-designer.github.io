@@ -167,6 +167,17 @@
 		width: 96%;
 		padding-bottom: 67.2%;
 	}
+	.card__content {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    margin: 0px auto 60px;
+    padding: 25px 25px 22px;
+    background: #fff;
+    overflow-y: auto;
+}
+.pattern {display:none;}
 }
 
 @media only screen and (max-width: 400px) {

@@ -331,6 +331,7 @@ p, body {font-family: "Gotham SSm",Helvetica,Arial,sans-serif;
 .marketing .col-md-4 {
   text-align: center;
   font-size: 16px;
+  height: 75px;
 }
 
 .marketing .col-md-4 .glyphicon {
@@ -363,7 +364,7 @@ p, body {font-family: "Gotham SSm",Helvetica,Arial,sans-serif;
     padding-bottom: 20px;
     color:#8e776b;
     text-align: center;
-    text-shadow: 0 1px 0px rgba(0, 0, 0, 0.6);
+    text-shadow: none;
 }
 /* Declare heights because of positioning of img element */
 .carousel .item {
